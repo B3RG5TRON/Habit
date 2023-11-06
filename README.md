@@ -22,14 +22,12 @@
 
 <hr>
 <br>
-<br>
 
 ## 💻 Projeto <a name = "projeto"></a>
 
 Esse projeto foi feito durante a NLW Setup da Rocketseat na trilha Ignite, em sua 11° edição, onde
 desenvolvemos um website que faz o controle de hábitos.
 
-<br>
 <br>
 
 ## 🚀 Tecnologias <a name = "tecnologias"></a>
@@ -78,7 +76,6 @@ desenvolvemos um website que faz o controle de hábitos.
 - **Expo Notifications** - Lib para fazer Push Notifications no Mobile
 
 <br>
-<br>
 
 ## 🔖 Layout <a name = "layout"></a>
 
@@ -86,7 +83,6 @@ Você pode visualizar o layout do projeto através
 [DESSE LINK](<https://www.figma.com/file/ArxVYcX7q7OUgCwdfBV6b7/Habits-(i)-(Community)?node-id=6%3A343&t=4ZHKCi0ZbniE75iY-1>).
 É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
-<br>
 <br>
 
 ## 🔒 Licença
