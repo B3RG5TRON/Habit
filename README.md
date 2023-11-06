@@ -3,7 +3,6 @@
 <div align="center">
 
 [Projeto](#projeto) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Tecnologias](#tecnologias)
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Aprendizado](#aprendizado)
 &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [TODO List](#TODO) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 [Layout](#layout) &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; [Licença](#license)
 
@@ -77,18 +76,6 @@ desenvolvemos um website que faz o controle de hábitos.
 - **DayJs** - Lib para trabalhar com datas
 - **Axios** - Lib para acessar API
 - **Expo Notifications** - Lib para fazer Push Notifications no Mobile
-
-<br>
-<br>
-
-## 🧠 Aprendizado <a name = "aprendizado"></a>
-
-Tudo o que eu estou aprendendo durante esse projeto estou documentando aqui no aquivo
-[DOC.md](DOC.md).
-
-A documentação encontra-se incompleta, mas 50% do projeto está documentado nela, sendo o principal
-foco na documentação, as ferramentas que utilizei no projeto. Pretendo finalizar a documentação
-algum dia.
 
 <br>
 <br>
